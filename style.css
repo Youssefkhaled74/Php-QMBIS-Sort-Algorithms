@@ -1,0 +1,32 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1.wow-heading {
+    font-size: 3rem;
+    color: #007bff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+button.wow-button {
+    font-size: 1.5rem;
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+button.wow-button:hover {
+    background-color: #0056b3;
+}
+
+select.form-control-lg {
+    font-size: 1.25rem;
+}
+
+p {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
